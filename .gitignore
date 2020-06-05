@@ -1,0 +1,6 @@
+/target/*
+/data/*
+/resources/*
+/.idea/*
+.idea/workspace.xml
+java-spring-boot-sample.iml
